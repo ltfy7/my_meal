@@ -513,17 +513,10 @@ packages:
     dependency: transitive
     description:
       name: logger
-<<<<<<< HEAD
       sha256: be4b23575aac7ebf01f225a241eb7f6b5641eeaf43c6a8613510fc2f8cf187d1
       url: "https://pub.dev"
     source: hosted
     version: "2.5.0"
-=======
-      sha256: "7ad7215c15420a102ec687bb320a7312afd449bac63bfb1c60d9787c27b9767f"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.4.0"
->>>>>>> c2be6531dbf4a47d82ff2f5987c64f0535e36e75
   logging:
     dependency: transitive
     description:
@@ -685,7 +678,6 @@ packages:
     source: hosted
     version: "1.3.0"
   rename:
-<<<<<<< HEAD
     dependency: "direct main"
     description:
       name: rename
@@ -693,15 +685,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.0.2"
-=======
-    dependency: "direct dev"
-    description:
-      name: rename
-      sha256: b0d9407186d834ad73aba9938da95a20208c4be99f151d9f376ac62a08d08bad
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.1.1"
->>>>>>> c2be6531dbf4a47d82ff2f5987c64f0535e36e75
   riverpod:
     dependency: transitive
     description:
